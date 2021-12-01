@@ -1,0 +1,23 @@
+Date :  21 , Name :  1 , Age :  1 , Gender :  1 , Aadhar No : 1 , Balance : 22Date :  26-11-2012 , Name :  1 , Age :  1 , Gender :  1 , Aadhar No : 1 , Balance : 31Date :  123444 , Name :  1 , Age :  1 , Gender :  1 , Aadhar No : 1 , Balance : 22  ......:  
+Date :  12211 , Name :  1 , Age :  1 , Gender :  1 , Aadhar No : 1 , Balance : 13  ......:  
+Date :   , Name :  1 , Age :  1 , Gender :  1 , Aadhar No : 1 , Balance : 13  ......:  
+Date :  3210 , Name :  1 , Age :  1 , Gender :  1 , Aadhar No : 1 , Balance : 13  ......:  
+Date :   , Name :  1 , Age :  1 , Gender :  1 , Aadhar No : 1 , Balance : 11  ......:  
+Date :  123 , Name :  1 , Age :  1 , Gender :  1 , Aadhar No : 1 , Balance : 11  ......:  
+Date :  33 , Name :  1 , Age :  1 , Gender :  1 , Aadhar No : 1 , Balance : 33  ......:  
+Date :  11 , Name :  1 , Age :  1 , Gender :  1 , Aadhar No : 1 , Balance : 33  ......:  
+Date :  123 , Name :  1 , Age :  1 , Gender :  1 , Aadhar No : 1 , Deposited : 60  , Total Balance  :  560.0......:  
+Date :  1245 , Name :  1 , Age :  1 , Gender :  1 , Aadhar No : 1 , Deposited : 5  , Total Balance  :  620.0......:  
+Date :  1221 , Name :  z , Age :  z , Gender :  z , Aadhar No : asa , Deposited : 500  , Total Balance before deposit :  0......:  
+Date :  21-24-2513 , Name :  1 , Age :  1 , Gender :  1 , Aadhar No : 1 , Deposited : 22  , Total Balance before deposit :  612.0......:  
+Date :  12 , Name :  xyx , Age :  21 , Gender :  m , Aadhar No : 12,asrf , Deposited : 123  , Total Balance before deposit :  0......:  
+Date :  123 , Name :  b , Age :  b , Gender :  b , Aadhar No : b , Deposited : 10  , Total Balance before deposit :  0......:  
+Date :  23-11-2785 , Name :  Bipul , Age :  21 , Gender :  m , Aadhar No : djktydfkuf , Deposited : 500  , Total Balance before deposit :  0......:  
+Date :  21-34-5353 , Name :  Bipul , Age :  21 , Gender :  m , Aadhar No : djktydfkuf , Deposited : 100  , Total Balance before deposit :  377.0......:  
+Date :  22-40-3533 , Name :  Bipul , Age :  21 , Gender :  m , Aadhar No : djktydfkuf , Deposited : 12  , Total Balance before deposit :  466.0......:  
+Date :  12-13-1365 , Name :  Tom , Age :  21 , Gender :  M , Aadhar No : 12,asrdy , Deposited : 50  , Total Balance before deposit :  0......:  
+Date :  12-12-1212 , Name :  Tom , Age :  21 , Gender :  M , Aadhar No : 12,asrdy , Deposited : 70  , Total Balance before deposit :  50.0......:  
+Date :  12143 , Name :  q , Age :  m , Gender :  m , Aadhar No : dfbsdg , Deposited : 46  , Total Balance before deposit :  0......:  
+Date :  11-11-2322 , Name :  Bipul , Age :  11 , Gender :  m , Aadhar No : d , Deposited : 34235  , Total Balance before deposit :  155.0......:  
+Date :  12-12-2323 , Name :  Jerry , Age :  22 , Gender :  M , Aadhar No : ds.kgfkh , Deposited : 386  , Total Balance before deposit :  0......:  
+Date :  12-49-2412 , Name :  Tom , Age :  21 , Gender :  M , Aadhar No : 12,asrdy , Deposited : 34  , Total Balance before deposit :  50.0......:  

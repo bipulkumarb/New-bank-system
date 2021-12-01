@@ -1,0 +1,17 @@
+Date :  123 , Name :  1 , Age :  1 , Gender :  1 , Aadhar No : 1 , Deposited : 13  , Total Balance before withdrawn  :  625.0......:  
+Date :  1221 , Name :  z , Age :  z , Gender :  z , Aadhar No : asa , Deposited : 23  , Total Balance before withdrawn  :  500.0......:  
+Date :  121 , Name :  1 , Age :  1 , Gender :  1 , Aadhar No : 1 , Deposited : 123  , Total Balance before withdrawn  :  634.0......:  
+Date :  231 , Name :  1 , Age :  1 , Gender :  1 , Aadhar No : 1 , Deposited : 11  , Total Balance before withdrawn  :  511.0......:  
+Date :  231 , Name :  1 , Age :  1 , Gender :  1 , Aadhar No : 1 , Deposited : 11  , Total Balance before withdrawn  :  500.0......:  
+Date :  132 , Name :  1 , Age :  1 , Gender :  1 , Aadhar No : 1 , Deposited : 13  , Total Balance before withdrawn  :  489.0......:  
+Date :  21-12-3455 , Name :  Bipul , Age :  21 , Gender :  m , Aadhar No : djktydfkuf , Deposited : 123  , Total Balance before withdrawn  :  500.0......:  
+Date :  12-45-4645 , Name :  Bipul , Age :  21 , Gender :  m , Aadhar No : djktydfkuf , Deposited : 11  , Total Balance before withdrawn  :  477.0......:  
+Date :  35-45-6486 , Name :  Bipul , Age :  21 , Gender :  m , Aadhar No : djktydfkuf , Deposited : 323  , Total Balance before withdrawn  :  478.0......:  
+Date :  12-14-1531 , Name :  Tom , Age :  21 , Gender :  M , Aadhar No : 12,asrdy , Deposited : 70  , Total Balance before withdrawn  :  120.0......:  
+Date :  325112 , Name :  q , Age :  m , Gender :  m , Aadhar No : dfbsdg , Deposited : 23  , Total Balance before withdrawn  :  46.0......:  
+Date :  12-12-1222 , Name :  Bipul , Age :  11 , Gender :  m , Aadhar No : d , Deposited : 45677888  , Total Balance before withdrawn  :  34390.0......:  
+Date :  12-12-1222 , Name :  Bipul , Age :  11 , Gender :  m , Aadhar No : d , Deposited : 4567  , Total Balance before withdrawn  :  34390.0......:  
+Date :  12-53-3521 , Name :  Jerry , Age :  22 , Gender :  M , Aadhar No : ds.kgfkh , Deposited : 2112  , Total Balance before withdrawn  :  386.0......:  
+Date :  12-53-3521 , Name :  Jerry , Age :  22 , Gender :  M , Aadhar No : ds.kgfkh , Deposited : 211  , Total Balance before withdrawn  :  386.0......:  
+Date :  11-24-5437 , Name :  Tom , Age :  21 , Gender :  M , Aadhar No : 12,asrdy , Deposited : 131  , Total Balance before withdrawn  :  84.0......:  
+Date :  11-24-5437 , Name :  Tom , Age :  21 , Gender :  M , Aadhar No : 12,asrdy , Deposited : 13  , Total Balance before withdrawn  :  84.0......:  
